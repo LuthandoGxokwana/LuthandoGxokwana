@@ -45,6 +45,7 @@ Machine Learning, Data Science, Software Architecture, System Design, Cloud Tech
 
 - **Email:** luthando.gxokwana77@gmail.com
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/luthando-gxokwana-557189225/)
+- **Portfolio:** [View & leave a review](https://luthando-portfolio-frontend.onrender.com/)
 
 ---
 
